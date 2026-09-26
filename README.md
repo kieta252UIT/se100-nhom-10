@@ -6,7 +6,7 @@
 
 | Tên | GitHub | Chủ trì mốc |
 |---|---|---|
-| | | M1: Yêu cầu |
+| Trần Quốc Khánh | khanhhbdt123@gmail.com | M1: Yêu cầu |
 | | | M2: Mô hình hoá |
 | | | M3–M4: Thiết kế |
 | | | M5: Giao hàng |
