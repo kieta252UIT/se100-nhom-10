@@ -1,6 +1,0 @@
-name = "se100-nhom-10"
-compatibility_date = "2024-01-01"
-previews = {}
-
-[assets]
-directory = "./src"
