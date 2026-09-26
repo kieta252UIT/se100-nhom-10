@@ -1,0 +1,41 @@
+# Bản phản tư mốc M0, nhóm 10
+
+*Đặt tại `phan-tu/M_.md` trong repo, nộp cùng mốc. Chấm 0/1/2. Một trang là đủ, dài quá hai trang thường là dấu hiệu viết chung chung.*
+
+Mọi khẳng định phải trỏ tới một commit, 7 ký tự đầu của hash. Không hash thì không tính.
+
+*"Ba câu" của môn, tức agent đề xuất gì, nhóm sửa gì, vì sao, nằm ở mục 1 và 2. Mục 3 và 4 viết ngắn thôi, nhưng điểm 2 thường nằm ở mục 3.*
+
+---
+
+## 1. Agent đã đề xuất gì?
+
+Liệt kê 3 đến 5 đề xuất *đáng kể* của agent trong mốc này, chứ không phải mọi dòng nó viết. Đáng kể nghĩa là có ảnh hưởng tới cấu trúc: một lớp mới, một cách chia module, một quan hệ, một quyết định lưu trữ.
+
+| Đề xuất | Ở đâu (tệp / sơ đồ) | Bản ghi hội thoại |
+|---|---|---|
+| | | `ai-log/...` dòng ... |
+
+## 2. Nhóm đã sửa chỗ nào, và vì sao?
+
+Với mỗi chỗ nhóm **không** làm theo agent, hoặc làm theo rồi **sửa lại**:
+
+| Agent đề xuất | Nhóm làm | Vì sao | Commit |
+|---|---|---|---|
+| | | | `abc1234` |
+
+*Mốc nào bảng này trống trơn thì thường được 0 hoặc 1. Dùng AI không xấu, nhưng một nhóm chẳng bao giờ khác ý với agent là nhóm chưa tự đánh giá.*
+
+## 3. Chỗ nào nhóm chấp nhận đề xuất của agent dù thấy chưa ổn?
+
+Ít nhất một chỗ. Nêu rõ đề xuất gì, chưa ổn ở đâu, và vì sao vẫn chấp nhận: hết thời gian, chưa đủ hiểu để làm khác, hay đánh đổi có ý thức. Commit: `_______`
+
+Mục này quan trọng nhất trong cả bản.
+
+## 4. Một điều nhóm học được ở mốc này mà tuần trước chưa biết
+
+Một câu thôi, và phải cụ thể về hệ thống của nhóm. Đừng nói chung chung về môn học.
+
+---
+
+**Ai viết bản này:** ______  **Ai đã đọc và đồng ý:** ______, ______, ______
