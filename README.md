@@ -7,7 +7,7 @@
 | Tên | GitHub | Chủ trì mốc |
 |---|---|---|
 | Trần Quốc Khánh | khanhhbdt123@gmail.com | M1: Yêu cầu |
-| Phạm Anh Khoa | 24520835@gm.uit.edu.vn | M2: Mô hình hoá |
+| | | M2: Mô hình hoá |
 | Nguyễn Hoàng Anh KHoa | nhak010106@gmail.com | M3–M4: Thiết kế |
 | Cao Tuấn Kiệt | 24520894@gm.uit.edu.vn | M5: Giao hàng |
 
