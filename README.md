@@ -13,7 +13,7 @@
 
 ## URL
 
-- Bản chạy: https://
+- Bản chạy: https://se100-nhom-10.24520894.workers.dev
 - Pipeline: xem tab Actions
 
 ## Cấu trúc repo
