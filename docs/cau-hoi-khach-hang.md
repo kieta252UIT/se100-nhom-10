@@ -1,9 +1,6 @@
-# Ba câu sẽ hỏi khách hàng
+# Bốn câu sẽ hỏi khách hàng
 
-*Mốc M0. CI đếm dấu `?`, cần ≥ 3. Hỏi thật vào, đừng hỏi kiểu "hệ thống cần những gì".*
-
-Câu hỏi tốt là câu hỏi về **bối cảnh**: ai sở hữu, ai trả tiền, ai chịu trách nhiệm, sai thì chuyện gì xảy ra. Hỏi về **chức năng** thì dễ nhưng ít dùng được. Tuần 5 các bạn sẽ mang chính mấy câu này ra hỏi khách hàng đóng vai.
-
-1. 
-2. 
-3. 
+1. ​Khi xảy ra tình trạng nhiều môi giới đăng cùng một căn nhà với các mức giá lệch nhau gây khiếu nại, ai sẽ là bên chịu trách nhiệm giải quyết với khách hàng?
+2. ​Nếu tình trạng bùng hẹn xảy ra liên tục 3–4 lần từ phía người tìm nhà, phía môi giới/chủ nhà có xu hướng bỏ nền tảng để chuyển sang kênh khác không?
+3. ​Trong 3 bên (Chủ nhà, Môi giới, Người tìm nhà), ai mới thực sự là bên chấp nhận chi trả tiền phí cho nền tảng của chúng ta?
+4. ​Bên chi trả phí chỉ chấp nhận xuống tiền khi nhận được kết quả nào (khi bài đăng được duyệt, khi có lịch hẹn, hay chỉ khi chốt thành công giao dịch)?
