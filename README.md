@@ -8,7 +8,7 @@
 |---|---|---|
 | Trần Quốc Khánh | khanhhbdt123@gmail.com | M1: Yêu cầu |
 | | | M2: Mô hình hoá |
-| | | M3–M4: Thiết kế |
+| Nguyễn Hoàng Anh KHoa | nhak010106@gmail.com | M3–M4: Thiết kế |
 | Cao Tuấn Kiệt | 24520894@gm.uit.edu.vn | M5: Giao hàng |
 
 ## URL
