@@ -8,10 +8,8 @@
 |---|---|---|
 | Trần Quốc Khánh | khanhhbdt123@gmail.com | M1: Yêu cầu |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | Phạm Anh Khoa | 24520835@gm.uit.edu.vn | M2: Mô hình hoá |
-| Nguyễn Hoàng Anh KHoa | nhak010106@gmail.com | M3–M4: Thiết kế |
-=======
-| | | M2: Mô hình hoá |
 | Nguyễn Hoàng Anh Khoa | nhak010106@gmail.com | M3–M4: Thiết kế |
 >>>>>>> 9d47f43 (Thêm Nguyễn Hoàng Anh Khoa vào danh sách thành viên)
 | Cao Tuấn Kiệt | 24520894@gm.uit.edu.vn | M5: Giao hàng |
